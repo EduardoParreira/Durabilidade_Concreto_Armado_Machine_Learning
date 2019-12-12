@@ -12,4 +12,4 @@ Foi utilizado redes neurais artificais, por meio de regressão linear. Onde a me
 
 Após os treinamentos, obtivemos resultados satisfatórios. Para o primeiro modelo codificado, atigimos um média absoluta de erro de 2,45. Já para o segundo modelo, a média foi de 1,88. Esse números querem dizer que, para cada previsão, a inteligência artifical pode errar o valor já citado, tanto para cima, quanto para baixo em comparação com a realidade. Quando mostrado esses resultados para os profissionais da Engeharia Civil, os mesmos ficaram bastantes satisfeitos já que são resultados melhores do que eles lidam no dia a dia com modelos tradicionais.
 
-O projeto já foi finalizado e até o momento, falta apenas apresentar para a banca final.
+O projeto já foi finalizado e aprovado pela banca final.
